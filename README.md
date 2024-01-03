@@ -6,3 +6,5 @@ This very detailed project enabled us to work on all the stages of a data analys
 - aggregation of the database using data available online (weather data, geographical data, etc.) 
 - exploration and visualisation of the dataset
 - creation of a machine learning model to establish our predictions
+
+If you have comments or thoughts about my work, feel free to contact me by email or on LinkedIn : thomaskieny@gmail.com | https://www.linkedin.com/in/thomaskieny/
